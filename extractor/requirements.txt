@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytesseract
+playwright
+azure-functions
+pdf2image
